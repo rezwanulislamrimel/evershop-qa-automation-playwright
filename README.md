@@ -10,9 +10,11 @@ The goal of this project is to practice real-world QA automation by applying:
 - Regression-friendly test design
 
 ## Tech Stack
-- Playwright (JavaScript)
+- Playwright
+- Js
 - Node.js
 - Page Object Model (POM)
 
 ## Application Under Test
 Evershop Demo (E-commerce platform)
+
